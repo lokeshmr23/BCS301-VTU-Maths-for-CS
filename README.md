@@ -1,7 +1,7 @@
 # BCS301-VTU-Maths-for-CS
 VTU BCS301 Mathematics for Computer Science (2022 Scheme) – notes, formula sheets, question papers &amp; video lectures for backlog/repeaters
 
-# Hi, I'm Lokesh 👋
+# Hi, I'm Lokesh
 
 I teach engineering maths for VTU students, with a focus on helping backlog and repeater students clear their exams.
 
